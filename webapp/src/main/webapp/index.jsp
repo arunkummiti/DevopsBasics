@@ -7,7 +7,7 @@
   </div>
 </head>
   <div>
-  <img src="https://pbs.twimg.com/media/E_A2-SvXsAYy1Aj?format=jpg&name=large" alt="CR7" style="width:1250;height:1000;">
+  <img src="https://pbs.twimg.com/media/E_A2-SvXsAYy1Aj?format=jpg&name=large" alt="CR7" style="width:1250;height:800;">
 </div>
 <body>
 </body>
