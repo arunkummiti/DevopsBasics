@@ -14,7 +14,7 @@
   
 
   <div>
-  <img src="http://freshwallpapers.in/walls/cristiano_ronaldo_cr7_artwork_nike-HD.jpg" alt="CR7" style="width:606;height:369;">
+  <img src="https://pbs.twimg.com/media/E_A2-SvXsAYy1Aj?format=jpg&name=large" alt="CR7" style="width:606;height:369;">
 </div>
 
 <body>
